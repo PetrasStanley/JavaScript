@@ -5,8 +5,26 @@ h1 {
 h1 {
     font-family: "Courier New", Courier, monospace;
 }
-.center {
+h1 {
     text-align: center;
-    border: 3px solid green;
 }
 /*For h2*/
+h2 {
+    font-size: 20px;
+}
+h2 {
+    font-family: "Courier New", Courier, monospace;
+}
+h2 {
+    text-align: center;
+}
+/*For p*/
+p {
+    font-size: 15px;
+}
+p {
+    font-family: "Courier New", Courier, monospace;
+}
+p {
+    text-align: left;
+}
