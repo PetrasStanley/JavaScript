@@ -30,11 +30,21 @@ p {
 }
 /*For p*/
 h3 {
-    font-size: 20px;
+    font-size: 25px;
 }
 h3 {
     font-family: "Courier New", Courier, monospace;
 }
 h3 {
+    text-align: left;
+}
+/*For a*/
+a {
+    font-size: 20px;
+}
+a {
+    font-family: "Courier New", Courier, monospace;
+}
+a {
     text-align: left;
 }
