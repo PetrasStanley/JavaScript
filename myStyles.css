@@ -20,11 +20,21 @@ h2 {
 }
 /*For p*/
 p {
-    font-size: 15px;
+    font-size: 20px;
 }
 p {
     font-family: "Courier New", Courier, monospace;
 }
 p {
+    text-align: left;
+}
+/*For p*/
+h3 {
+    font-size: 20px;
+}
+h3 {
+    font-family: "Courier New", Courier, monospace;
+}
+h3 {
     text-align: left;
 }
