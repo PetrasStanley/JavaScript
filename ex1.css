@@ -1,0 +1,24 @@
+/*For entire page*/
+body {
+    background-image: url("background.jpg");
+}
+/*For h1*/
+h1 {
+    font-size: 60px;
+}
+h1 {
+    font-family: "Courier New", Courier, monospace;
+}
+h1 {
+    text-align: center;
+}
+/*For h2*/
+h2 {
+    font-size: 30px;
+}
+h2 {
+    font-family: "Courier New", Courier, monospace;
+}
+h2 {
+    text-align: center;
+}

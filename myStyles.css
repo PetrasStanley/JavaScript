@@ -1,6 +1,10 @@
+/*For entire page*/
+body {
+    background-image: url("background.jpg");
+}
 /*For h1*/
 h1 {
-    font-size: 40px;
+    font-size: 60px;
 }
 h1 {
     font-family: "Courier New", Courier, monospace;
@@ -10,7 +14,7 @@ h1 {
 }
 /*For h2*/
 h2 {
-    font-size: 20px;
+    font-size: 30px;
 }
 h2 {
     font-family: "Courier New", Courier, monospace;
@@ -30,7 +34,7 @@ p {
 }
 /*For p*/
 h3 {
-    font-size: 25px;
+    font-size: 40px;
 }
 h3 {
     font-family: "Courier New", Courier, monospace;
@@ -40,7 +44,7 @@ h3 {
 }
 /*For a*/
 a {
-    font-size: 20px;
+    font-size: 30px;
 }
 a {
     font-family: "Courier New", Courier, monospace;
