@@ -29,9 +29,20 @@
 <!-- 'Excersise itself' Begins -->
 <script>
 
-function repeat() {
-  var no = prompt("Please enter a number");
-  var wrd = prompt("Please enter a word you would like to repeat");
+function IntOut() {
+  var name = document.getElementById('Input').value;
+  document.getElementById(Output).innerHTML = name,"is a nice name!"
+
+-------till here -------
+
+
+
+---
+---
+---
+
+
+
 
   var count = 0;
   var ans = '';
@@ -41,7 +52,7 @@ function repeat() {
   }
   return ans;
 }
-document.write (repeat());
+document.write (IntOut());
 
 </script>
 <!-- 'Excersise itself' Ends -->
